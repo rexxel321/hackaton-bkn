@@ -37,5 +37,7 @@ py -m venv venv
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Jalankan aplikasi
+# 4. Copy init.sql dan masukin di mysql (untuk database)
+
+# 5. Jalankan aplikasi
 streamlit run dashboard_v3.py
